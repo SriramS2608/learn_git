@@ -7,3 +7,12 @@ adding more and more date to the new branch
 
 
 adding : to clear conflict without manager
+
+
+
+
+
+
+
+
+adding data to rebase to mater
