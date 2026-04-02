@@ -16,3 +16,4 @@ adding : to clear conflict without manager
 
 
 adding data to rebase to mater
+adding to check rebasing to rebase_feat 
