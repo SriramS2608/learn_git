@@ -4,3 +4,6 @@ editing in master to check merging without manager works
 adding more data t check feature branch
 
 adding more and more date to the new branch
+
+
+adding : to clear conflict without manager
